@@ -1,12 +1,12 @@
 /***************************************************|
-|	Name: Turn Off My PC							|
-|	Function: Timer to turn off your PC				|
-|	Created on: 10/25/2016							|
-|	Author: Kaio Pessoni | kaiopessoni.com			|
-|	Platform: Windows only							|
-|	Languages: English and Portuguese				|
-|	Programming Language: C++						|
-|													|
+|	Name: Turn Off My PC			    |
+|	Function: Timer to turn off your PC	    |
+|	Created on: 10/25/2016			    |
+|	Author: Kaio Pessoni | kaiopessoni.com	    |
+|	Platform: Windows only			    |
+|	Languages: English and Portuguese           |
+|	Programming Language: C++		    |
+|						    |
 |***************************************************/
 
 #include "stdafx.h"
@@ -31,7 +31,7 @@ int main() {
 
 	// Setup Language
 	cout << "\n Choose a language | Escolha um idioma \n";
-	cout << "\n 1. English \n 2. Português \n";
+	cout << "\n 1. English \n 2. PortuguÃªs \n";
 
 	do {
 		cout << "\n Choice | Escolha: ";
@@ -51,7 +51,7 @@ int main() {
 		labelCredits = "Created by Kaio Pessoni.";
 		labelWarning = " WARNING: if you click on the screen, right click to\n get back.";
 		break;
-	case 2: // Português
+	case 2: // PortuguÃªs
 		system("title Desligue Meu PC");
 		labelQuestion = "\n Em quanto tempo deseja que o seu PC desligue?\n\n";
 		labelInitialTime = "\n Tempo configurado: ";
@@ -60,7 +60,7 @@ int main() {
 		labelSeconds = " Segundos";
 		labelLeft = " faltando. ";
 		labelCredits = "Criado por Kaio Pessoni.";
-		labelWarning = " AVISO: se você clicar na tela, clique com o botão\n direito para voltar.";
+		labelWarning = " AVISO: se vocÃª clicar na tela, clique com o botÃ£o\n direito para voltar.";
 		break;
 	}
 
