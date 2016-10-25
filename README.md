@@ -8,6 +8,6 @@ If you need to leave your computer on (e.g., downloading something), you can set
 To cancel the shutdown, open cmd and type <em>shutdown /a</em>. <br>
 <strong>LIMIT-TIME:</strong> 72h59m59s
 
-<img src="https://github.com/kaiopessoni/Shutdown-Timer/blob/master/screenshot01.PNG"> <br>
-<img src="https://github.com/kaiopessoni/Shutdown-Timer/blob/master/screenshot02.PNG"> <br>
-<img src="https://github.com/kaiopessoni/Shutdown-Timer/blob/master/screenshot03.PNG">
++![alt tag](https://github.com/kaiopessoni/Shutdown-Timer/blob/master/screenshot01.PNG) <br>
++![alt tag](https://github.com/kaiopessoni/Shutdown-Timer/blob/master/screenshot02.PNG) <br>
++![alt tag](https://github.com/kaiopessoni/Shutdown-Timer/blob/master/screenshot03.PNG)
